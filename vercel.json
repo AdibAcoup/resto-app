@@ -11,9 +11,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "DB_HOST":"mysql",
         "APP_URL": "https://yourproductionurl.com",
-        "APP_KEY":"base64:JwwLGDwggREXoSth4qIf3B1Efdf2NUfqf/WQFOsa0pg=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
         "APP_PACKAGES_CACHE": "/tmp/packages.php",
